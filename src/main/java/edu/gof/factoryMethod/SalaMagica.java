@@ -1,4 +1,4 @@
-package edu.design.factoryMethod;
+package edu.gof.factoryMethod;
 
 public class SalaMagica extends Sala{
     @Override

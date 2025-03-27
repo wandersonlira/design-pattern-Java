@@ -1,12 +1,12 @@
-package edu.design.abstractFactory;
+package edu.gof.abstractFactory;
 
-import edu.design.abstractFactory.fabricas.DeliveryFactory;
-import edu.design.abstractFactory.fabricas.HambugueriaFactory;
-import edu.design.abstractFactory.fabricas.PizzariaFactory;
+import edu.gof.abstractFactory.fabricas.DeliveryFactory;
+import edu.gof.abstractFactory.fabricas.HambugueriaFactory;
+import edu.gof.abstractFactory.fabricas.PizzariaFactory;
 
 import java.util.Objects;
 
-public class Main {
+public class MainAbstractFactory {
 
     public static void main(String[] args) throws Exception {
         DeliveryFactory factory;

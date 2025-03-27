@@ -1,4 +1,4 @@
-package edu.design.abstractFactory.comida;
+package edu.gof.abstractFactory.comida;
 
 public interface Comida {
 

@@ -1,8 +1,8 @@
-package edu.design;
+package edu.gof;
 
-import edu.design.factoryMethod.ComumLabirintoJogo;
-import edu.design.factoryMethod.LabirintoJogo;
-import edu.design.factoryMethod.MagicoLabirintoJogo;
+import edu.gof.factoryMethod.ComumLabirintoJogo;
+import edu.gof.factoryMethod.LabirintoJogo;
+import edu.gof.factoryMethod.MagicoLabirintoJogo;
 
 public class Main {
     public static void main(String[] args) {

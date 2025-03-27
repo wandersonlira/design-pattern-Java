@@ -1,4 +1,4 @@
-package edu.design.factoryMethod;
+package edu.gof.factoryMethod;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package edu.design.abstractFactory.bebida;
+package edu.gof.abstractFactory.bebida;
 
 public class MilkShake implements Bebida{
 

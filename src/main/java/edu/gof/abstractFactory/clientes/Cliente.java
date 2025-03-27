@@ -1,8 +1,8 @@
-package edu.design.abstractFactory.clientes;
+package edu.gof.abstractFactory.clientes;
 
-import edu.design.abstractFactory.bebida.Bebida;
-import edu.design.abstractFactory.comida.Comida;
-import edu.design.abstractFactory.fabricas.DeliveryFactory;
+import edu.gof.abstractFactory.bebida.Bebida;
+import edu.gof.abstractFactory.comida.Comida;
+import edu.gof.abstractFactory.fabricas.DeliveryFactory;
 
 public class Cliente {
 

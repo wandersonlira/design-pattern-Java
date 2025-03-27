@@ -1,4 +1,4 @@
-package edu.design.factoryMethod;
+package edu.gof.factoryMethod;
 
 public class ComumLabirintoJogo extends LabirintoJogo{
     @Override
