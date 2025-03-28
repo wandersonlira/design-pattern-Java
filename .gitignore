@@ -27,7 +27,6 @@ target/
 /dist/
 /nbdist/
 /.nb-gradle/
-src/main/java/edu/gof/builderPattern/
 !**/src/main/**/build/
 !**/src/test/**/build/
 
