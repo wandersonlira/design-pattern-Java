@@ -1,9 +1,9 @@
-package edu.gof.abstractFactory.fabricas;
+package edu.gof.abstractFactory.option_2.fabricas;
 
-import edu.gof.abstractFactory.bebida.Bebida;
-import edu.gof.abstractFactory.bebida.Refrigerante;
-import edu.gof.abstractFactory.comida.Comida;
-import edu.gof.abstractFactory.comida.Pizza;
+import edu.gof.abstractFactory.option_2.bebida.Bebida;
+import edu.gof.abstractFactory.option_2.bebida.Refrigerante;
+import edu.gof.abstractFactory.option_2.comida.Comida;
+import edu.gof.abstractFactory.option_2.comida.Pizza;
 
 public class PizzariaFactory implements DeliveryFactory {
 

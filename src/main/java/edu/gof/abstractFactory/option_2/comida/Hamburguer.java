@@ -1,4 +1,4 @@
-package edu.gof.abstractFactory.comida;
+package edu.gof.abstractFactory.option_2.comida;
 
 public class Hamburguer implements Comida {
 
