@@ -1,8 +1,8 @@
 package edu.gof.abstractFactory;
 
-import edu.gof.abstractFactory.fabricas.DeliveryFactory;
-import edu.gof.abstractFactory.fabricas.HambugueriaFactory;
-import edu.gof.abstractFactory.fabricas.PizzariaFactory;
+import edu.gof.abstractFactory.option_2.fabricas.DeliveryFactory;
+import edu.gof.abstractFactory.option_2.fabricas.HambugueriaFactory;
+import edu.gof.abstractFactory.option_2.fabricas.PizzariaFactory;
 
 import java.util.Objects;
 
